@@ -1,0 +1,51 @@
+.body-main{
+    
+        background-color: #8cfffa;
+            
+            
+}
+.body-secondary{
+    background-color: #ffca18;
+}
+.titles{
+    font-size: 40px;
+    text-align: center;
+    color:#7922CC;
+    text-shadow: 2px 2px 4px #e28e8e;
+}
+.titles::first-letter{
+    font-family: 'Tahoma', serif;
+        font-size: 55px;
+    color:#7922CC;
+}
+
+    
+img{
+   
+    
+    display: block;
+        margin-left: auto;
+        margin-right: auto;
+        
+    
+}
+.text-love,.text-signature,.text-name{
+    text-align: right;
+    margin-right: 20px;
+    margin-top: 15px;
+    font-size: 17px;
+    color:#e70000;
+}
+.text-name{
+    margin-right: 40px;
+}
+.main-text{
+    font-size: 18px;
+        color: #e70000;
+        font-family: cursive,serif;
+}
+.main-text::first-letter{
+    font-family: 'Tahoma', serif;
+        font-size: 52px;
+        color: #f44336;
+}
